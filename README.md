@@ -2,7 +2,11 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=6d6aff)
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=74&pause=500&color=6d6affBC&vCenter=true&width=700&height=80&lines=I'm+SUWAN+KHP.;A+Passionate+Full+Stack+Developer;From+Thailand)](https://git.io/typing-svg)
+ <div align="center" >
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=74&pause=500&color=6d6affBC&vCenter=true&width=700&height=80&lines=I'm+SUWAN+KHP.;A+Passionate+Full+Stack+Developer;From+Thailand)](https://git.io/typing-svg)
+  
+  </div>
 
  </div>
 
