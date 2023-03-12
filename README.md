@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm SUWAN KHP.</h1>
-<h3 align="center">A passionate Full-Stack developer from Thailand.</h3>
+<div align="center" >
+ 
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=6d6aff)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=74&pause=500&color=6d6aff&vCenter=true&width=700&height=80&lines=I'm+SUWAN+KHP.;A+passionate+Full+Stack+developer)](https://git.io/typing-svg)
+ 
+ </div>
 
 - 📫 How to reach me **suwan.khieanpap@gmail.com**
 
