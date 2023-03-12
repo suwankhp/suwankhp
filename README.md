@@ -28,15 +28,7 @@
   ![Kaivalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=oncepk&show_icons=true&theme=transparent)
 
 </div>
-<div align="center" >
- 
-  ##
-  
-  ![Snake animation](https://github.com/oncepk/oncepk/blob/output/github-contribution-grid-snake.svg)
-  
-  ##
-  
- </div>
+
 
 <div align="center" >
  
