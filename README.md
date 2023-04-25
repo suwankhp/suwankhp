@@ -16,7 +16,7 @@
 
  ⚡ Fun fact **Co-Founder & COO Thaibioscience Co.,Ltd**
 
- 🟡 My Portfolio Website is in process https://oncepk.github.io/suwankhp/ 🟡
+ 🟡 My Portfolio Website : https://oncepk.github.io/suwankhp/ 🟡
 	
 ##
 
