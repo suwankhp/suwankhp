@@ -4,7 +4,7 @@
 
  <div align="center" >
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=74&pause=500&color=6d6affBC&vCenter=true&width=700&height=80&lines=I'm+Suwan+Khiean-pap;A+Passionate+Software+Engineer;From+Thailand)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=74&pause=500&color=6d6affBC&vCenter=true&width=700&height=80&lines=I'm+Suwan+Khiean-pap+(wan);A+Passionate+Software+Engineer;From+Thailand)](https://git.io/typing-svg)
   
   </div>
 
