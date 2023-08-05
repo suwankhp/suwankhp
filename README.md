@@ -16,7 +16,7 @@
 
  ⚡ Fun fact **Co-Founder & COO Thaibioscience Co.,Ltd**
 
- 🟡 My Portfolio Website : https://suwankhp.vercel.app/ 🟡
+ 🟡 Software Developer @ ODDS| 🟡
 	
 ##
 
