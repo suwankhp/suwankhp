@@ -14,7 +14,7 @@
 
  📫 How to reach me **suwan.khieanpap@gmail.com**
 
- ⚡ Fun fact **Co-Founder & COO Thaibioscience Co.,Ltd**
+ ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
  🟡 Software Developer @ ODDS| 🟡
 	
