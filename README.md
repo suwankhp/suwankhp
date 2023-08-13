@@ -34,7 +34,12 @@
  </div>
 
 </div>
+</br>
+<div align="center" >
+	
+[![rwieruch's github stats](https://github-readme-stats.vercel.app/api?username=oncepk&show_icons=true&theme=holi&count_private=true)](https://github.com/oncepk/)
 
+</div>
 
 <div align="center" >
  
