@@ -31,7 +31,7 @@ function sayHi(
 ): string {
     const greeting = `
     ┌───────────────────────────────────┐
-    │        Greetings, visitor!       │
+    │        Greetings, visitor!        │
     └───────────────────────────────────┘
     Name: ${name}
     Pronouns: ${pronouns}
