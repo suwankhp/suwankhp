@@ -37,6 +37,7 @@ function sayHi(
     Pronouns: ${pronouns}
     Role: ${currentRole}
     Passions: ${passions.join(", ")}
+
     Have a great day! 😊
     `;
     return greeting;
