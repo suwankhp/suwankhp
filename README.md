@@ -20,6 +20,35 @@
 	
 ##
 
+<div align="left" >
+
+``` TypeScript
+function sayHi(
+    name: string = "Suwan Khieanpap",
+    pronouns: string = "he/him/his",
+    currentRole: string = "Software Developer",
+    passions: string[] = ["Software Engineering", "Product Engineering", "Infrastructure as Code"]
+): string {
+    const greeting = `
+    ┌───────────────────────────────────┐
+    │        Greetings, visitor!       │
+    └───────────────────────────────────┘
+    Name: ${name}
+    Pronouns: ${pronouns}
+    Role: ${currentRole}
+    Passions: ${passions.join(", ")}
+    Have a great day! 😊
+    `;
+    return greeting;
+}
+
+console.log(sayHi());
+
+```
+
+ </div>
+
+
 <h3 align="center"><strong>Connect With Me</strong></h3>
 <p align="center">
 <a href="https://fb.com/plustor9.ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plustor9.ss" height="30" width="40" /></a>
