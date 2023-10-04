@@ -49,7 +49,7 @@ console.log(sayHi());
 
  </div>
  
-[Achievement Log](https://github.com/oncepk/blob/main/Achievement-Log)
+[Achievement Log](https://github.com/oncepk/Achievement-Log)
 
 <h3 align="center"><strong>Connect With Me</strong></h3>
 <p align="center">
