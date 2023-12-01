@@ -51,6 +51,9 @@ console.log(sayHi());
  
 [Achievement Log](https://github.com/oncepk/Achievement-Log)
 
+<a href="https://app.daily.dev/oncepk"><img src="https://github.com/oncepk/oncepk/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+
 <h3 align="center"><strong>Connect With Me</strong></h3>
 <p align="center">
 <a href="https://fb.com/plustor9.ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="plustor9.ss" height="30" width="40" /></a>
@@ -58,6 +61,8 @@ console.log(sayHi());
 <a href="https://linkedin.com/in/suwankhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suwankhp" height="30" width="40" /></a>
 	
 </p>
+
+
 
 ![visitors](https://komarev.com/ghpvc/?username=oncepk&style=plastic-square)
 ##
