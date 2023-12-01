@@ -51,7 +51,7 @@ console.log(sayHi());
  
 [Achievement Log](https://github.com/oncepk/Achievement-Log)
 
-<a href="https://app.daily.dev/oncepk"><img src="https://github.com/oncepk/oncepk/blob/main/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/oncepk"><img src="https://github.com/oncepk/oncepk/blob/main/devcard.svg" width="350" alt="Chris Bongers's Dev Card"/></a>
 
 
 <h3 align="center"><strong>Connect With Me</strong></h3>
