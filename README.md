@@ -12,7 +12,7 @@
 
 <div align="center" >
 
- 📫 How to reach me **suwan.khieanpap@gmail.com**
+ 📫 How to reach me **wan@odds.team**
 
  ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
