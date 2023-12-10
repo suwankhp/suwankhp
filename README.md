@@ -14,6 +14,8 @@
 
  📫 How to reach me **wan@odds.team**
 
+My web portfolio: https://my-wan.vercel.app/
+
  ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
  🟡 Software Developer @ ODDS| 🟡
