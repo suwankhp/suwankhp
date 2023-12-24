@@ -20,7 +20,7 @@ My web portfolio: https://my-wan.vercel.app/
 
  🟡 Software Developer @ ODDS| 🟡
 
-## [Brag Document](https://my-wan.vercel.app/brag/2023)
+## ✨ [Brag Document](https://my-wan.vercel.app/brag/2023) ✨
 	
 ##
 
