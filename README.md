@@ -19,6 +19,8 @@ My web portfolio: https://my-wan.vercel.app/
  ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
  🟡 Software Developer @ ODDS| 🟡
+
+## [Brag Document](https://my-wan.vercel.app/brag/2023)
 	
 ##
 
@@ -51,7 +53,7 @@ console.log(sayHi());
 
  </div>
  
-[Achievement Log](https://github.com/oncepk/Achievement-Log)
+
 
 <a href="https://app.daily.dev/oncepk"><img src="https://github.com/oncepk/oncepk/blob/main/devcard.svg" width="350" alt="Chris Bongers's Dev Card"/></a>
 
