@@ -19,8 +19,6 @@ My web portfolio: https://my-wan.vercel.app/
  ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
  🟡 Software Developer @ ODDS| 🟡
-
-## ✨ [Brag Document](https://my-wan.vercel.app/brag/2023) ✨
 	
 ##
 
