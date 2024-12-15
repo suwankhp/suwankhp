@@ -25,27 +25,45 @@ My web portfolio: https://my-wan.vercel.app/
 <div align="left" >
 
 ``` TypeScript
-function sayHi(
-    name: string = "Suwan Khieanpap",
-    pronouns: string = "he/him/his",
-    currentRole: string = "Software Developer",
-    passions: string[] = ["Software Engineering", "Product Engineering", "Infrastructure as Code"]
-): string {
-    const greeting = `
-    ┌───────────────────────────────────┐
-    │        Greetings, visitor!        │
-    └───────────────────────────────────┘
-    ✨ Name:     ${name}
-    🌟 Pronouns: ${pronouns}
-    🚀 Role:     ${currentRole}
-    🔥 Passions: ${passions.join(", ")}
+type UserInfo = {
+  name: string;
+  pronouns: string;
+  currentRole: string;
+  passions: string[];
+};
 
-    Have a great day! 😊
-    `;
-    return greeting;
-}
+const defaultUserInfo: UserInfo = {
+  name: "Suwan Khieanpap",
+  pronouns: "he/him/his",
+  currentRole: "Software Developer",
+  passions: ["Software Engineering", "Product Engineering", "Infrastructure as Code"],
+};
+
+const formatHeader = (): string => `
+┌───────────────────────────────────┐
+│        Greetings, visitor!        │
+└───────────────────────────────────┘
+`;
+
+const formatDetails = (userInfo: UserInfo): string => {
+  const { name, pronouns, currentRole, passions } = userInfo;
+  return `
+✨ Name:     ${name}
+🌟 Pronouns: ${pronouns}
+🚀 Role:     ${currentRole}
+🔥 Passions: ${passions?.join(", ")}
+`;
+};
+
+const formatFooter = (): string => `
+Have a great day! 😊
+`;
+
+const sayHi = (userInfo: UserInfo = defaultUserInfo): string =>
+  [formatHeader(), formatDetails(userInfo), formatFooter()].join("\n");
 
 console.log(sayHi());
+
 
 ```
 
