@@ -18,7 +18,7 @@ My web portfolio: https://my-wan.vercel.app/
 
  ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
- 🟡 Software Developer @ ODDS| 🟡
+ 🟡 Software Developer @ ODDS-TEAM| 🟡
 	
 ##
 
@@ -35,10 +35,10 @@ function sayHi(
     ┌───────────────────────────────────┐
     │        Greetings, visitor!        │
     └───────────────────────────────────┘
-    Name: ${name}
-    Pronouns: ${pronouns}
-    Role: ${currentRole}
-    Passions: ${passions.join(", ")}
+    ✨ Name:     ${name}
+    🌟 Pronouns: ${pronouns}
+    🚀 Role:     ${currentRole}
+    🔥 Passions: ${passions.join(", ")}
 
     Have a great day! 😊
     `;
