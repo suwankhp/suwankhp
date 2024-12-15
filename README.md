@@ -55,9 +55,7 @@ const formatDetails = (userInfo: UserInfo): string => {
 `;
 };
 
-const formatFooter = (): string => `
-Have a great day! 😊
-`;
+const formatFooter = (): string => `Have a great day! 😊`;
 
 const sayHi = (userInfo: UserInfo = defaultUserInfo): string =>
   [formatHeader(), formatDetails(userInfo), formatFooter()].join("\n");
