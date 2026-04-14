@@ -14,7 +14,7 @@
 
  📫 How to reach me **wan@odds.team**
 
-My web portfolio: https://wanlog.dev/
+My web portfolio: [https://wanlog.dev/](https://wanlog.dev)
 
  ⚡ Fun fact **Co-Founder & COO @ Thaibioscience Co.,Ltd**
 
